@@ -1,4 +1,4 @@
-var proxy = "SOCKS5 guest:ttzd1028@mihomo.ebymvp.xyz:8775";
+var proxy = "PROXY guest:ttzd1028@mihomo.ebymvp.xyz:8775";
 
 var direct = 'DIRECT';
 
